@@ -1,0 +1,10 @@
+[project]
+name = "EasyUI"
+description = "Allows making a mirror of options that are on a node, for use creating your own UI"
+version = "1.0.2"
+license = {text = "MIT License"}
+
+[tool.comfy]
+PublisherId = "GroxicTinch"
+DisplayName = "EasyUI"
+Icon = ""
