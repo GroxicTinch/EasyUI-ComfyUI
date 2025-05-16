@@ -7,7 +7,7 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "UINode": "UINode [GroxicTinch]",
+    "UINode": "Mirror node [Do not add manually!]",
 }
 
 WEB_DIRECTORY = "./web/comfyui"
