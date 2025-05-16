@@ -4,6 +4,10 @@ description = "Allows making a mirror of options that are on a node, for use cre
 version = "1.0.2"
 license = {text = "MIT License"}
 
+[project.urls]
+Repository = "https://github.com/GroxicTinch/EasyUI-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
 [tool.comfy]
 PublisherId = "GroxicTinch"
 DisplayName = "EasyUI"
